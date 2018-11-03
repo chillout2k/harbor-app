@@ -1,2 +1,2 @@
 # harbor-app
-Harbor-App sits on top of Harbot and is written in react-native/expo
+Harbor-App connects to the Harbor-daemon over REST@HTTPS and is written in react-native/expo
