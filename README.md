@@ -1,5 +1,5 @@
 # harbor-app
-Harbor-App connects to the [Harbor-daemon](https://github.com/chillout2k/harbor) over REST@HTTPS and is written in react-native/expo
+Harbor-App is a mobile app written in [react-native](https://facebook.github.io/react-native/)/[expo](https://expo.io). The app connects to the [Harbor-daemon](https://github.com/chillout2k/harbor) over REST@HTTPS.
 
 # Try the app in a virtual environment
 ## Install [Genymotion's](https://www.genymotion.com/) android emulator
